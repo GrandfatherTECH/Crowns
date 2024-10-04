@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\Никита\source\repos\Crowns\MyForm.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Никита\source\repos\Crowns\MyForm.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Никита\source\repos\Crowns\Teeth.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Никита\source\repos\Crowns\Craw.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Никита\source\repos\Crowns\Craw.h(337,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  NewClients.cpp
+  Создание кода...
+  Craw.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Crowns.vcxproj -> C:\Users\Никита\source\repos\Crowns\Debug\Crowns.exe

@@ -1,0 +1,6 @@
+D:\VSRepos\Crowns\Crowns\Debug\Crowns.vcxproj.AssemblyReference.cache
+D:\VSRepos\Crowns\Crowns\Debug\Crowns.Craw.resources
+D:\VSRepos\Crowns\Crowns\Debug\Crowns.MyForm.resources
+D:\VSRepos\Crowns\Crowns\Debug\Crowns.NewClients.resources
+D:\VSRepos\Crowns\Crowns\Debug\Crowns.Teeth.resources
+D:\VSRepos\Crowns\Crowns\Debug\Crowns.vcxproj.GenerateResource.cache

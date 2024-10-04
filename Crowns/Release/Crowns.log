@@ -1,0 +1,22 @@
+﻿  Craw.cpp
+D:\VSRepos\Crowns\Craw.h(385,11): warning C4101: 'res': unreferenced local variable
+D:\VSRepos\Crowns\Craw.h(378,11): warning C4101: 'check': unreferenced local variable
+D:\VSRepos\Crowns\Craw.h(386,8): warning C4101: 'int32_res': unreferenced local variable
+  MyForm.cpp
+D:\VSRepos\Crowns\Teeth.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\VSRepos\Crowns\Craw.h(385,11): warning C4101: 'res': unreferenced local variable
+D:\VSRepos\Crowns\Craw.h(378,11): warning C4101: 'check': unreferenced local variable
+D:\VSRepos\Crowns\Craw.h(386,8): warning C4101: 'int32_res': unreferenced local variable
+  NewClients.cpp
+D:\VSRepos\Crowns\Teeth.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\VSRepos\Crowns\Craw.h(385,11): warning C4101: 'res': unreferenced local variable
+D:\VSRepos\Crowns\Craw.h(378,11): warning C4101: 'check': unreferenced local variable
+D:\VSRepos\Crowns\Craw.h(386,8): warning C4101: 'int32_res': unreferenced local variable
+  Teeth.cpp
+D:\VSRepos\Crowns\Teeth.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\VSRepos\Crowns\Craw.h(385,11): warning C4101: 'res': unreferenced local variable
+D:\VSRepos\Crowns\Craw.h(378,11): warning C4101: 'check': unreferenced local variable
+D:\VSRepos\Crowns\Craw.h(386,8): warning C4101: 'int32_res': unreferenced local variable
+  Generating Code...
+  Craw.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Crowns.vcxproj -> D:\VSRepos\Crowns\Release\Crowns.exe

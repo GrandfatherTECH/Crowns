@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+D:\VSRepos\Crowns\MyForm.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\VSRepos\Crowns\MyForm.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\VSRepos\Crowns\Teeth.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\VSRepos\Crowns\Craw.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\VSRepos\Crowns\Craw.h(337,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  NewClients.cpp
+  Generating Code...
+  Craw.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Crowns.vcxproj -> D:\VSRepos\Crowns\x64\Debug\Crowns.exe
